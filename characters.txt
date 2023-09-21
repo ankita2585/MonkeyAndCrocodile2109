@@ -2,4 +2,3 @@ characters
 Monkey
 Crocodile
 crocodile's wife
-frog
